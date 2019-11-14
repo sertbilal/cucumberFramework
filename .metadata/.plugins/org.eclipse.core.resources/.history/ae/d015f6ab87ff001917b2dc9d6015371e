@@ -1,0 +1,40 @@
+package com.class13;
+
+public class InterviewQuestionsTask {
+
+	public static void main(String[] args) {
+		String s1="9405957744";
+		
+		System.out.println(s1.replaceAll("0", "1"));
+		
+		//find the maximum number in the array
+		int [] n= {1,4,5,9,89,78,65,34,12,34};
+		
+		int max=n[0];
+		int secondMax=n[0];
+		for (int i=0; i<n.length; i++) {
+			if (n[i]>max) {
+				max=n[i];
+			}else if (secondMax<max && secondMax==n[i]) {
+				
+			}System.out.println(secondMax);
+		}
+		//System.out.println(max);
+		
+		
+		
+		
+//		int [] n= {1,4,5,9,89,78,65,34,12,34};
+//		int max=n[0];
+//		int secondMax=0;
+//		
+//		for (int j=0; j<n.length; j++) {
+//			if (n[j]>max) {	
+//				max=n[j];	
+//		}
+//		System.out.println(secondMax);
+//		//System.out.println(max);
+
+	}
+
+}

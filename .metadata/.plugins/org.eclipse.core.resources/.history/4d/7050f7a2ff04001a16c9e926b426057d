@@ -1,0 +1,23 @@
+package com.class17;
+
+public class Main {
+	
+	void newLine(){
+        
+        int i =1;
+         while (i<4){  // bunun yerine asagida 3 defa yazdirabilirsin
+         
+        	 System.out.println("newLine method implementation");
+         i++; }}
+   
+
+	
+	
+	
+	
+	public static void main(String[]args){
+       
+       Main ln = new Main();
+         
+       ln.newLine(); //3 defa alt alta yazdirabilirsin
+     }}

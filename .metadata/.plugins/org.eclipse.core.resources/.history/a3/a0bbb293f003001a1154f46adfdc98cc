@@ -1,0 +1,10 @@
+package com.class17;
+
+public class Phone {
+		String name, opSystem, madeIn; 
+		
+		
+		void takeSelfie() {
+			System.out.println("cell phone "+ name);
+		}
+}

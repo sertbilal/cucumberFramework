@@ -1,0 +1,21 @@
+package com.interviewQuestions;
+
+public class SwapWithoutTemporaryVariable {
+
+	public static void main(String[] args) {
+		{ 
+//	        String str1 = "10"; 
+//	        String str2= "5"; 
+//	        System.out.println(str1.rep);
+	        int a=10;
+	        int b=20;
+			a = a + b; 
+	        b = a - b; 
+	        a = a - b; 
+	        System.out.println("After swaping:"
+	                           + " a = " + a + ", b = " + b); 
+	    } 
+	} 
+
+	}
+

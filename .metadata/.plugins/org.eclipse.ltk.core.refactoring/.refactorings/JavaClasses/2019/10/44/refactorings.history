@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;reviewArrayStringManip.Hw2D86&apos; to &apos;Hw2D_Array_Her_Satir_Toplami_tek_tek&apos;&#x0A;- Original project: &apos;JacaClasses&apos;&#x0A;- Original element: &apos;reviewArrayStringManip.Hw2D86&apos;&#x0A;- Renamed element: &apos;reviewArrayStringManip.Hw2D_Array_Her_Satir_Toplami_tek_tek&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Hw2D86&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/&lt;reviewArrayStringManip{Hw2D86.java[Hw2D86" matchStrategy="1" name="Hw2D_Array_Her_Satir_Toplami_tek_tek" qualified="false" references="true" similarDeclarations="false" stamp="1572561958457" textual="false" version="1.0"/>
+</session>
