@@ -1,0 +1,22 @@
+package com.reviewMethodsClass;
+
+public class Baby {
+	String firstName;
+	String lastName;
+	char gender;
+	int weight;
+	String hairColor;
+	
+	
+	void talk() {
+		System.out.println("Bla bla bla");
+	}
+	void walk () {
+		System.out.println("Crawl");
+	}
+	
+	void cry() {
+		System.out.println("Cry every minute");
+	}
+
+}
