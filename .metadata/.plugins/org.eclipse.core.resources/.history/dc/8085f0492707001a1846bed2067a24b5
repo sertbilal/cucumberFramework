@@ -1,0 +1,24 @@
+package com.replitMethod_Objects;
+
+public class Main {
+	String breed, name, color;
+	private String dog3;
+
+ 	void bark (String dog1, String dog2, String dog3){
+	    System.out.println(dog1+"can bark");
+	    System.out.println(dog2+"can bark");
+	    System.out.println(dog3+"can bark");
+	  }
+	  void run(String dog1, String dog2){
+	    System.out.println(dog1+"can run");
+	     System.out.println(dog2+"can run");
+	      System.out.println(dog3+"can run");
+	  }
+	  void play(String dog1, String dog2){
+	    System.out.println(dog1+"can play");
+	    System.out.println(dog2+"can play");
+	     System.out.println(dog3+"can play");
+	    
+	  }
+
+}

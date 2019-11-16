@@ -1,0 +1,19 @@
+package com.replitMethod_Objects;
+
+public class Main8 {
+	
+	void forLoop (String ababababab ) {
+		System.out.println(ababababab.length());
+	}
+	
+		    
+ public static void main (String []args){
+		  
+		  Main8 mm=new Main8();
+		  mm.forLoop(null);
+	
+		
+ 
+ 
+ }}
+

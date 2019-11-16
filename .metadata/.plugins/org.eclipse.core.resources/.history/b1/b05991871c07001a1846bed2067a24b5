@@ -1,0 +1,12 @@
+package com.replitMethod_Objects;
+
+public class Main {
+	public static void main(String[] args) {
+		Main name = new Main();
+		String name1="John";
+		int roll_no=2;
+		
+		System.out.println("Name is "+name1+" and roll number is "+roll_no);
+
+}
+}

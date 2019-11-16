@@ -1,0 +1,19 @@
+package com.replitMethod_Objects;
+/*1. create method and name as m1. Inside your method body add print statement as 
+ * "m1 method implementation"
+2. create another method and name as m2. Inside your method body add print statement as
+ "m2 method implementation"
+3. Call these two methods in the main method */
+public class M1 {
+	
+	static String statement1;
+	static String statement2;
+ public static void main (String []args){
+	 
+	 M1 message1=new M1();
+	message1.statement1="m1 method implementation";
+	 M1 message2=new M1();
+	message2.statement2="m2 method implementation";
+	 System.out.println(statement1+statement2);
+ }
+}
