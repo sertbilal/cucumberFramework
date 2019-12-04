@@ -8,6 +8,7 @@
 		<item key="isRegEx" value="false"/>
 		<item key="selection" value="trim"/>
 		<list key="findhistory">
+			<item value="import java.awt.Graphics;"/>
 			<item value="package com.interviewQuestions;"/>
 			<item value="trim"/>
 			<item value="String str3 = str + &quot; &quot; + &quot;World&quot;;"/>
